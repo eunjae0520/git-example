@@ -5,8 +5,11 @@ package org.example;
 
 class Main {
     public static void main(String[] args) {
-        // `\` <= 백스페이스 좌측 키
-        System.out.println("안녕하ㅏ세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요\n안녕하세요");
-        System.out.println(123);
+        System.out.println("아아아ㅏ아ㅏ아1");
+        System.out.println("아아아ㅏ아ㅏ아1");
+        System.out.println("아아아ㅏ아ㅏ아1");
+        System.out.println("아아아ㅏ아ㅏ아1");
+        System.out.println("아아아ㅏ아ㅏ아1");
+        System.out.println("아아아ㅏ아ㅏ아1");
     }
 }
